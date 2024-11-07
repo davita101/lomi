@@ -367,7 +367,6 @@ def position():
         x,y = pa.position()
         print(x,y)
 # position()
-
-# first_action(39)
-# second_action(39)
-print(bro()[0]["კოდი"])
+print(bro()[9]["კოდი"])
+first_action(9)
+# second_action(9)
